@@ -4,7 +4,7 @@
 
 int main() {
     char cmd[20];
-    printf("Application de traitement d’images PPM réalisée par Evan's.\n");
+    printf("Application de traitement d’images PPM réalisée par notre Groupe.\n");
 
     while (1) {
         printf("ppmviewer > ");
